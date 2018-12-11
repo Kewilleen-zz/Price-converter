@@ -29,5 +29,5 @@ getTo() //return 'to' money transition
 getFrom() //return 'from'
 getValue() //return the real value
 calc(args) //return a value multiplied of the convertion
-getJSON() return date and base convertion
+getJSON() //return date and base convertion
 ```
