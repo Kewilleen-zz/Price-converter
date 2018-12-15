@@ -23,7 +23,7 @@
 		}
 
 		public function remove($key)	{
-			unset($_SESSION[$this->key]);
+			unset($_SESSION[$key]);
 		}
 
 		public function removeAll()	{
